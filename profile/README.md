@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../logo.png" alt="OneBitCode Logo" width="300"/>
+  <img src="https://raw.githubusercontent.com/1BitCode-Com/.github/main/logo.png" alt="OneBitCode Logo" width="300"/>
   <h3>Code Securely, Think Binary.</h3>
 </div>
 
